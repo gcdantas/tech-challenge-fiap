@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```text
 01_modelagem_breast_cancer.ipynb
 02_modelagem_diabetes.ipynb
-03_modelagem_ovario_polissistico.ipynb
+03_modelagem_ovario_policistico.ipynb
 04_Deteccao_de_Pneumonia_em_Radiografias.ipynb
 ```
 
@@ -45,7 +45,7 @@ Este notebook trata do diagnóstico preditivo de diabetes a partir do dataset `d
 
 O processo inclui divisão estratificada entre treino e teste, análise de correlação, imputação pela mediana, padronização das variáveis e treinamento de modelos como Regressão Logística, Árvore de Decisão e Random Forest. A avaliação prioriza métricas relevantes ao contexto médico, especialmente o recall para a classe positiva, considerando que falsos negativos representam maior risco em problemas de triagem clínica.
 
-### 03_modelagem_ovario_polissistico.ipynb
+### 03_modelagem_ovario_policistico.ipynb
 
 Este notebook aborda a classificação da **Síndrome dos Ovários Policísticos (SOP)** utilizando um dataset clínico em formato Excel `datasets/PCOS_data_without_infertility.xlsx`. O trabalho inclui carregamento da base, inspeção inicial, remoção de colunas de identificação ou sem utilidade analítica, tratamento de valores ausentes, padronização de colunas e conversão de atributos para formatos numéricos adequados à modelagem.
 
