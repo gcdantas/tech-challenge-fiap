@@ -59,10 +59,10 @@ O modelo utiliza Transfer Learning com a arquitetura **MobileNetV2**, aplicando 
 
 ## Datasets utilizados
 
-- **Breast Cancer Wisconsin** — classificação de câncer de mama como benigno ou maligno.
-- **N. Inst. of Diabetes & Diges. & Kidney Dis. Diabetes** — classificação de pacientes com ou sem diabetes.
-- **PCOS Dataset** — classificação de Síndrome dos Ovários Policísticos.
-- **Chest X-Ray Pneumonia** — classificação de radiografias entre normal e pneumonia.
+- **Breast Cancer Wisconsin** — classificação de câncer de mama como benigno ou maligno. https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data
+- **N. Inst. of Diabetes & Diges. & Kidney Dis. Diabetes** — classificação de pacientes com ou sem diabetes. https://www.kaggle.com/datasets/mathchi/diabetes-data-set/data
+- **PCOS Dataset** — classificação de Síndrome dos Ovários Policísticos. https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
+- **Chest X-Ray Pneumonia** — classificação de radiografias entre normal e pneumonia. https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## Observação sobre uso clínico
 
