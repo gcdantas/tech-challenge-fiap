@@ -60,7 +60,7 @@ O modelo utiliza Transfer Learning com a arquitetura **MobileNetV2**, aplicando 
 ## Datasets utilizados
 
 - **Breast Cancer Wisconsin** — classificação de câncer de mama como benigno ou maligno.
-- **Pima Indians Diabetes** — classificação de pacientes com ou sem diabetes.
+- **N. Inst. of Diabetes & Diges. & Kidney Dis. Diabetes** — classificação de pacientes com ou sem diabetes.
 - **PCOS Dataset** — classificação de Síndrome dos Ovários Policísticos.
 - **Chest X-Ray Pneumonia** — classificação de radiografias entre normal e pneumonia.
 
