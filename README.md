@@ -10,6 +10,15 @@ Neste repositório, foram desenvolvidos notebooks com diferentes abordagens de m
 
 O PDF do **Tech Challenge Fase 1** anexado ao projeto pode ser consultado como documento de referência para o escopo, requisitos técnicos e critérios de entrega.
 
+## Integrantes do grupo
+
+- Gustavo de Carvalho Dantas - rm372153
+- Lucas dos Santos Camilo - rm373405
+- Marcius Lucas Fernandes - rm371349
+- Sabrina de Oliveira Zago Capanema - rm370447
+
+
+
 ## Como executar o projeto
 
 1. Clone este repositório ou baixe os arquivos do projeto.
